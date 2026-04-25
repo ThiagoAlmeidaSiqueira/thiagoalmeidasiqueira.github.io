@@ -1,14 +1,5 @@
 Analista Judiciário com foco em tecnologia, automação e uso de IA aplicada a sistemas institucionais.
 
-## 🌐 Site
-
-Acesse: https://thiagoalmeidasiqueira.github.io/
-
-## 💼 LinkedIn
-
-Perfil profissional:  
-https://www.linkedin.com/in/thiagoalmeidasiqueira/
-
 ## 👨‍💻 Sobre mim
 
 Atuo como Analista Judiciário, com experiência em:
