@@ -1,5 +1,3 @@
-# Thiago Almeida Siqueira
-
 Analista Judiciário com foco em tecnologia, automação e uso de IA aplicada a sistemas institucionais.
 
 ## 🌐 Site
