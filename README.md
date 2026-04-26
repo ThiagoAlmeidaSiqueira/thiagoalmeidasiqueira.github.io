@@ -1,51 +1,61 @@
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="foto.png" width="150" height="200">
+
+
+<p>
 Analista Judiciário com foco em tecnologia, automação e uso de IA aplicada a sistemas institucionais.
+</p>
 
-## 👨‍💻 Sobre mim
+<h2>👨‍💻 Sobre mim</h2>
 
-Atuo como Analista Judiciário, com experiência em:
+<p>Atuo com:</p>
 
-- Administração e evolução de bancos de dados
-- Integração e automação de sistemas
-- Uso de IA para otimização de fluxos de trabalho
-- Processamento e análise de documentos
-- Desenvolvimento de soluções internas
+<ul>
+  <li>Administração e evolução de bancos de dados</li>
+  <li>Integração e automação de sistemas</li>
+  <li>IA aplicada a fluxos de trabalho</li>
+  <li>Processamento e análise de documentos</li>
+  <li>Desenvolvimento de soluções internas</li>
+</ul>
 
-Tenho interesse prático em:
+<p>Interesses práticos:</p>
 
-- LLMs rodando localmente
-- RAG (Retrieval-Augmented Generation)
-- Automação com ferramentas como n8n
-- Processamento de documentos (OCR, embeddings)
-- PostgreSQL com pgvector
+<ul>
+  <li>LLMs locais</li>
+  <li>RAG</li>
+  <li>Automação com n8n</li>
+  <li>OCR e embeddings</li>
+  <li>PostgreSQL com pgvector</li>
+</ul>
+    </td>
+    <td valign="top">
+<h2>🚀 Projetos e Estudos</h2>
 
-## 🚀 Projetos e Estudos
+<ul>
+  <li>IA aplicada a sistemas administrativos</li>
+  <li>Integração de modelos locais em workflows</li>
+  <li>Automação de tarefas repetitivas</li>
+  <li>Busca semântica com dados estruturados</li>
+</ul>
 
-Este site reúne experimentos, estudos e implementações voltadas para:
+<h2>📌 Objetivo</h2>
 
-- Uso de IA em sistemas administrativos
-- Integração de modelos locais com workflows reais
-- Automação de tarefas repetitivas
-- Estruturação de dados para busca semântica
+<p>
+Aplicar IA no dia a dia institucional para reduzir trabalho manual e aumentar eficiência.
+</p>
 
-## 🛠️ Tecnologias
+<h2>📫 Contato</h2>
 
-- Python
-- PostgreSQL
-- Docker
-- Ollama
-- n8n
-- Jinja2
-- Ferramentas de OCR
+<ul>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/thiagoalmeidasiqueira/">thiagoalmeidasiqueira</a></li>
+  <li>Site: <a href="https://thiagoalmeidasiqueira.github.io/">thiagoalmeidasiqueira.github.io</a></li>
+</ul>
 
-## 📌 Objetivo
-
-Aplicar inteligência artificial de forma prática no dia a dia institucional, com foco em ganho de eficiência e redução de trabalho manual.
-
-## 📫 Contato
-
-- LinkedIn: https://www.linkedin.com/in/thiagoalmeidasiqueira/
-- Site: https://thiagoalmeidasiqueira.github.io/
-
----
-
+<p>
 Se você trabalha com automação, IA ou sistemas públicos, vale trocar ideias.
+</p>
+ </td>
+  </tr>
+</table>
